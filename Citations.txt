@@ -1,0 +1,419 @@
+1) @article{Lawrence,
+author = {Lawrence, Steve and Giles, C and Tsoi, Ah and Back, Andrew},
+year = {1997},
+month = {02},
+pages = {98 - 113},
+title = {Face Recognition: A Convolutional Neural Network Approach},
+volume = {8},
+journal = {Neural Networks, IEEE Transactions on},
+doi = {10.1109/72.554195}
+}
+
+2) @article{Ahmed,
+author = {Ahmed, Imran and Ahmad, Misbah and Rodrigues, Joel and Jeon, Gwanggil and Din, Sadia},
+year = {2020},
+month = {11},
+pages = {102571},
+title = {A deep learning-based social distance monitoring framework for COVID-19},
+volume = {65},
+journal = {Sustainable Cities and Society},
+doi = {10.1016/j.scs.2020.102571}
+}
+
+3) @unknown{Baojin,
+author = {Wang, Zhongyuan and Wang, Guangcheng and Huang, Baojin and Xiong, Zhangyang and Hong, Qi and Wu, Hao and Yi, Peng and Jiang, Kui and Wang, Nanxi and Pei, Yingjiao and Chen, Heling and Yu, Miao and Huang, Zhibing and Liang, Jinbi},
+year = {2020},
+month = {03},
+pages = {},
+title = {Masked Face Recognition Dataset and Application}
+}
+
+4) @inbook{Li,
+author = {Li, Chong and Wang, Rong and Li, Jinze and Fei, Linyu},
+year = {2020},
+month = {01},
+pages = {277-284},
+title = {Face Detection Based on YOLOv3},
+isbn = {978-981-13-9405-8},
+doi = {10.1007/978-981-13-9406-5_34}
+}
+
+
+5)@inproceedings{Velasco-Montero,
+author = {Velasco-Montero, Delia and Fernández-Berni, Jorge and Carmona-Galan, Ricardo and Rodríguez-Vázquez, Ángel},
+year = {2018},
+month = {05},
+pages = {14},
+title = {Performance analysis of real-time DNN inference on Raspberry Pi},
+journal = {Conference: Real-Time Image and Video Processing},
+doi = {10.1117/12.2309763}
+}
+
+6) @article{Abadi,
+author = {Abadi, Martín and Agarwal, Ashish and Barham, Paul and Brevdo, Eugene and Chen, Zhifeng and Citro, Craig and Corrado, G.s and Davis, Andy and Dean, Jeffrey and Devin, Matthieu and Ghemawat, Sanjay and Goodfellow, Ian and Harp, Andrew and Irving, Geoffrey and Isard, Michael and Jia, Yangqing and Jozefowicz, Rafal and Kaiser, Lukasz and Kudlur, Manjunath and Zheng, Xiaoqiang},
+year = {2016},
+month = {03},
+pages = {1-19},
+title = {TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems}
+journal = {arXiv:1603.04467v2 [cs.DC]},
+}
+
+7) @article{Nguyen,
+author = {Nguyen, h.},
+year = {2020},
+month = {03},
+pages = {812 - 824},
+title = {Fast object detection framework based on mobilenetv2 architecture and enhanced feature pyramid},
+volume = {98, (05)},
+journal = {Theoretical and Applied Information Technology},
+}
+
+
+8) @inproceedings{Dong,
+author = {Chen, Dong and Hua, Gang and Wen, Fang and Sun, Jian},
+year = {2016},
+month = {10},
+pages = {122 - 138},
+title = {Supervised Transformer Network for Efficient Face Detection},
+volume = {9909},
+journal = {European Conference on Computer Vision, Spinger International Publisher},
+}
+
+9) @inproceedings{Tianfu,
+author = {Li, Yunzhu and Sun, Benyuan and Wu, Tianfu and Wang, Yizhou},
+year = {2016},
+month = {10},
+pages = {420-436},
+title = {Face Detection with End-to-End Integration of a ConvNet and a 3D Model},
+volume = {9907},
+isbn = {978-3-319-46486-2},
+doi = {10.1007/978-3-319-46487-9_26}
+}
+
+10) @inproceedings{Patel,
+author = {Ranjan, R., Patel, V. M., & Chellappa, R},
+year = {2017},
+month = {10},
+pages = {121–135},
+title = {Hyperface: A deep multi-task learning framework for face detection, landmark localization, pose estimation, and gender recognition},
+volume = {41, (1),},
+journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+isbn = {978-3-319-46486-2},
+doi = {10.1007/978-3-319-46487-9_26}
+}
+
+
+11) @article{Kaipeng,
+author = {Zhang, Kaipeng and Zhang, Zhanpeng and Qiao, Yu},
+year = {2016a},
+month = {04},
+pages = {1499–1503},
+title = {Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks},
+volume = {23, (10)},
+journal = {IEEE Signal Processing Letters},
+doi = {10.1109/LSP.2016.2603342}
+}
+
+12) @article{Zhanpeng,
+author = {Zhang, Kaipeng and Zhang, Zhanpeng and Qiao, Yu},
+year = {2016b},
+month = {04},
+pages = {1499–1503},
+title = {Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks},
+volume = {23, (10)},
+journal = {IEEE Signal Processing Letters},
+doi = {10.1109/LSP.2016.2603342}
+}
+
+13) @inbook{Marios,
+author = {Zhu, Chenchen and Zheng, Yutong and Luu, Khoa and Savvides, Marios},
+year = {2017},
+month = {08},
+pages = {57-79},
+title = {CMS-RCNN: Contextual multi-scale region-based CNN for unconstrained face detection},
+isbn = {978-3-319-61656-8},
+journal = {Advances in Computer Vision and Pattern Recognition},
+doi = {10.1007/978-3-319-61657-5_3}
+}
+
+14) @article{Daijin,
+author = {Jun, Bongjin and Choi, Inho and Kim, Daijin},
+year = {2013},
+month = {06},
+pages = {1423-1436},
+title = {Local Transform Features and Hybridization for Accurate Face and Human Detection},
+volume = {35},
+journal = {IEEE transactions on pattern analysis and machine intelligence},
+doi = {10.1109/TPAMI.2012.219}
+}
+
+15) @inproceedings{Shiming,
+author = {Ge, Shiming and Li, Jia and Ye, Qiting and Luo, Zhao},
+year = {2017},
+month = {07},
+pages = {426-434},
+title = {Detecting Masked Faces in the Wild with LLE-CNNs},
+journal = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+doi = {10.1109/CVPR.2017.53}
+}
+
+16) @article{Charless,
+author = {Ghiasi, Golnaz and Fowlkes, Charless},
+year = {2014},
+month = {09},
+pages = {1899-1906},
+title = {Occlusion Coherence: Localizing Occluded Faces with a Hierarchical Deformable Part Model},
+journal = {Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition},
+doi = {10.1109/CVPR.2014.306}
+}
+
+17) @inproceedings{Waltner,
+author = {Opitz, Michael and Waltner, Georg and Poier, Georg and Possegger, Horst and Bischof, Horst},
+year = {2016},
+month = {10},
+pages = {386-402},
+title = {Grid Loss: Detecting Occluded Faces},
+volume = {9907},
+journal = {European conference on computer vision, Cham: Springer},
+isbn = {978-3-319-46486-2},
+doi = {10.1007/978-3-319-46487-9_24}
+}
+
+18) @inproceedings{Xiaoou,
+author = {Yang, Shuo and Luo, Ping and Loy, Chen Change and Tang, Xiaoou},
+year = {2015},
+month = {12},
+pages = {3676-3684},
+title = {From Facial Parts Responses to Face Detection: A Deep Learning Approach},
+journal = {Proceedings of the IEEE International Conference on Computer Vision},
+doi = {10.1109/ICCV.2015.419}
+}
+
+19) @article{Timo,
+author = {Ojala, Timo and Pietikäinen, Matti and Maenpaa, T.},
+year = {2002},
+month = {08},
+pages = {971-987},
+title = {Multiresolution Gray-Scale and Rotation Invariant Texture Classification with Local Binary Patterns},
+volume = {24},
+journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+doi = {10.1109/TPAMI.2002.1017623}
+}
+
+20) @inproceedings{Park,
+author = {Kim, Tae-Hyun and Park, Chul and Woo, Dong-Min and Jeong, Taikyeong and Min, Soo-Young},
+year = {2011},
+month = {10},
+pages = {122-127},
+title = {Multi-class Classifier-Based Adaboost Algorithm},
+journal = {International conference on intelligent science and intelligent data engineering, Berlin, Heidelberg: Springer},
+isbn = {978-3-642-31918-1},
+doi = {10.1007/978-3-642-31919-8_16}
+}
+
+21) @inproceedings{Loy,
+author = {Yang, Shuo and Luo, Ping and Loy, Chen Change and Tang, Xiaoou},
+year = {2016},
+month = {06},
+pages = {5525-5533},
+title = {WIDER FACE: A Face Detection Benchmark},
+journal = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+doi = {10.1109/CVPR.2016.596}
+}
+
+22) @inproceedings{Jordan,
+author = {Klare, Brendan and Klein, Ben and Taborsky, Emma and Blanton, Austin and Cheney, Jordan and Allen, Kristen and Grother, Patrick and Mah, Alan and Jain, Anil},
+year = {2015a},
+month = {06},
+pages = {1931–1939},
+title = {Pushing the Frontiers of Unconstrained Face Detection and Recognition: IARPA Janus Benchmark A},
+journal = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+doi = {10.1109/CVPR.2015.7298803}
+}
+
+23) @article{Stan,
+author = {Yang, Bin and Yan, Junjie and Lei, Zhen and Li, Stan},
+year = {2015},
+month = {07},
+pages = {1–7},
+volume = {1},
+title = {Fine-grained evaluation on face detection in the wild},
+journal = {11th IEEE International Conference and Workshops on Automatic Face and Gesture Recognition (FG)},
+doi = {10.1109/FG.2015.7163158}
+}
+
+24) @inproceedings{Kristen,
+author = {Klare, Brendan and Klein, Ben and Taborsky, Emma and Blanton, Austin and Cheney, Jordan and Allen, Kristen and Grother, Patrick and Mah, Alan and Jain, Anil},
+year = {2015b},
+month = {06},
+pages = {1931–1939},
+title = {Pushing the Frontiers of Unconstrained Face Detection and Recognition: IARPA Janus Benchmark A},
+journal = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+doi = {10.1109/CVPR.2015.7298803}
+}
+
+25) @inproceedings{Jones,
+author = {Viola, Paul and Jones, Michael},
+year = {2001},
+month = {02},
+pages = {I-511},
+title = {Rapid Object Detection using a Boosted Cascade of Simple Features},
+volume = {1},
+isbn = {0-7695-1272-0},
+journal = {IEEE Conf Comput Vis Pattern Recognition},
+doi = {10.1109/CVPR.2001.990517}
+}
+
+26) @inproceedings{Yichen,
+author = {Chen, Dong and Ren, Shaoqing and Wei, Yichen and Cao, Xudong and Sun, Jian},
+year = {2014},
+month = {09},
+pages = {109-122},
+title = {Joint Cascade Face Detection and Alignment},
+volume = {8694},
+journal = {European conference on computer vision. Cham: Springer},
+isbn = {978-3-319-10598-7},
+doi = {10.1007/978-3-319-10599-4_8}
+}
+
+27) @article{Ross,
+author = {Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+year = {2015},
+month = {06},
+pages = {91–99},
+title = {Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks},
+volume = {39},
+journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+doi = {10.1109/TPAMI.2016.2577031}
+}
+
+28) @inproceedings{Jonathan,
+author = {Li, Haoxiang and Lin, Zhe and Shen, Xiaohui and Brandt, Jonathan},
+year = {2015},
+month = {06},
+pages = {5325-5334},
+title = {A convolutional neural network cascade for face detection},
+journal = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+doi = {10.1109/CVPR.2015.7299170}
+}
+
+29) @inproceedings{Szegedy,
+author = {Liu, Wei and Anguelov, Dragomir and Erhan, Dumitru and Szegedy, Christian and Reed, Scott and Fu, Cheng-Yang and Berg, Alexander},
+year = {2016},
+month = {10},
+pages = {21-37},
+title = {SSD: Single Shot MultiBox Detector},
+volume = {9905},
+journal = {European conference on computer vision. Cham: Springer},
+isbn = {978-3-319-46447-3},
+doi = {10.1007/978-3-319-46448-0_2}
+}
+
+30) @inproceedings{Tatiana,
+author = {Anisimov, Dmitriy and Khanova, Tatiana},
+year = {2017},
+month = {08},
+pages = {1-8},
+title = {Towards lightweight convolutional neural networks for object detection},
+journal = {14th IEEE international conference on advanced video and signal based surveillance (AVSS)},
+doi = {10.1109/AVSS.2017.8078500}
+}
+
+31) @inproceedings{Zhmoginov,
+author = {Sandler, Mark and Howard, Andrew and Zhu, Menglong and Zhmoginov, Andrey and Chen, Liang-Chieh},
+year = {2018},
+month = {06},
+pages = {4510-4520},
+title = {MobileNetV2: Inverted Residuals and Linear Bottlenecks},
+journal = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+doi = {10.1109/CVPR.2018.00474}
+}
+
+32) @article{Shelhamer,
+author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+year = {2014},
+month = {06},
+pages = {},
+title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
+journal = {MM 2014 - Proceedings of the 2014 ACM Conference on Multimedia},
+doi = {10.1145/2647868.2654889}
+}
+
+33) @article{Sarpeshkar,
+author = {Hahnloser, Richard and Sarpeshkar, Rahul and Mahowald, Misha and Douglas, Rodney and Seung, H.},
+year = {2000},
+month = {07},
+pages = {947-51},
+title = {Digital selection and analogue amplification coexist in a cortex-inspired silicon circuit},
+volume = {405},
+journal = {Nature},
+doi = {10.1038/35016072}
+}
+
+34) @inproceedings{Wei,
+author = {Zhang, Xiaohu and Zou, Yuexian and Shi, Wei},
+year = {2017},
+month = {08},
+pages = {1-5},
+title = {Dilated convolution neural network with LeakyReLU for environmental sound classification},
+journal = {22nd International Conference on Digital Signal Processing (DSP)},
+doi = {10.1109/ICDSP.2017.8096153}
+}
+
+35) @article{Denil,
+author = {Gulcehre, Caglar and Moczulski, Marcin and Denil, Misha and Bengio, Y.},
+year = {2016},
+month = {03},
+pages = {3059–3068},
+journal = {arXiv:1603.04467v2 [cs.DC]},
+title = {Noisy Activation Functions}
+}
+
+36) @article{Opschoor,
+author = {Opschoor, J. and Schwab, Ch and Zech, J.},
+year = {2021},
+month = {04},
+pages = {1-46},
+title = {Exponential ReLU DNN Expression of Holomorphic Maps in High Dimension},
+journal = {Constructive Approximation},
+doi = {10.1007/s00365-021-09542-5}
+}
+
+37) @article{Patrick,
+author = {Lecun, Yann and Bottou, Leon and Bengio, Y. and Haffner, Patrick},
+year = {1998},
+month = {12},
+pages = {2278 - 2324},
+title = {Gradient-Based Learning Applied to Document Recognition},
+volume = {86},
+journal = {Proceedings of the IEEE},
+doi = {10.1109/5.726791}
+}
+
+38) @unknown{Vijayan,
+author = {Sidike, Paheding and Alom, Md. Zahangir and Taha, Tarek and Asari, Vijayan},
+year = {2018},
+month = {11},
+pages = {1-39},
+title = {The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches},
+journal = {arXiv:1603.04467v2 [cs.DC]},
+}
+
+39) @article{Zisserman,
+author = {Simonyan, Karen and Zisserman, Andrew},
+year = {2014},
+month = {09},
+pages = {1-14},
+title = {Very Deep Convolutional Networks for Large-Scale Image Recognition},
+journal = {arXiv 1409.1556}
+}
+
+40) @inproceedings{Shaoqing,
+author = {He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+year = {2016},
+month = {06},
+pages = {770-778},
+title = {Deep Residual Learning for Image Recognition},
+journal = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+doi = {10.1109/CVPR.2016.90}
+}
